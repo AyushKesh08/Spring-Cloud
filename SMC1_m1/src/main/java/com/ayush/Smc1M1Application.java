@@ -1,0 +1,15 @@
+package com.ayush;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
+@EnableDiscoveryClient
+@SpringBootApplication
+public class Smc1M1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Smc1M1Application.class, args);
+	}
+
+}

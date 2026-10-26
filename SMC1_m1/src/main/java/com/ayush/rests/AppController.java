@@ -1,0 +1,18 @@
+package com.ayush.rests;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AppController {
+
+	@GetMapping("/info")
+	public String information() {
+		return "Hiiii";
+	}
+	
+	@GetMapping("/pro")
+	public String process() {
+		return "Hello";
+	}
+}
