@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SMC2_Admin
+server:
+  port: 5454
