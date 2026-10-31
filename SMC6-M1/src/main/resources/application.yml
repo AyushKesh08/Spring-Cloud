@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SMC6-M1
+server:
+  port: 9000
