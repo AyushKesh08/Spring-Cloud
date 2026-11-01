@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SMC7-M1
+
+server:
+  port: 9001
