@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SMC7_Eureka
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+server:
+  port: 8761
