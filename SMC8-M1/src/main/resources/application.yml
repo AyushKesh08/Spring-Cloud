@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: SMC8-M1
+  config:
+    import: optional:configserver:http://localhost:3333
+
+server:
+  port: 8981
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'refresh'
