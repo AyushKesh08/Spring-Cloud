@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: SMC10-m1
+  data:
+    redis:
+      url: dawnlike-act-busy-62855.db.redis.io
+      port: 16630
+      username: default
+      password: kuzzQgNa8hHS2qWpZQAPCFxUrMJbq0Q9 
+
+server:
+  port: 8981
