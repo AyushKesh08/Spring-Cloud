@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SMC12
+
+server:
+  port: 8981
