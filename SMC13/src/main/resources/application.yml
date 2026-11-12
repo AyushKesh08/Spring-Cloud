@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SMC13
+  security:
+    user:
+      name: ayushhero
+      password: hero1234
+
+server:
+  port: 8981
