@@ -41,6 +41,6 @@ Maven
 
 REST APIs
 
-IntelliJ IDEA / Spring Tool Suite
+Spring Tool Suite
 
 Git and GitHub
